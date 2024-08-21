@@ -1,6 +1,6 @@
 # Research Scientist in the domain of Data Science
 
-#### Technical Skills: Python, C++, SQL, ML
+#### Technical Skills: Python, C++, Fortran, SQL, GPU, ML
 
 ## Education
 - Ph.D., Chemical Physics | Indian Institute of Technology Bombay (_August 2023_)								       		
