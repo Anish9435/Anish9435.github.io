@@ -1,6 +1,6 @@
 # Research Scientist in the domain of Chemical Physics/ Data Science
 
-#### Technical Skills: Python, C++, Fortran, SQL, GPU, ML
+#### Technical Skills: Python, C++, Fortran, SQL, GPU, ML, MySQL, Gaussian, ORCA, Q-CHEM, Gromacs
 
 ## Education
 - Ph.D., Chemical Physics | Indian Institute of Technology Bombay (_August 2023_)								       		
@@ -16,7 +16,7 @@
 - Developed QM based methodology towards the efficient implementation of Phaseless Auxiliary Field Quantum Monte Carlo (ph-AFQMC)
 - Applied Python and C++ for the data generation and utilized GPU computing towards the efficient implementation of the working equations
 
-**R\&D and Project Management Expertise @ IIT Bombay & NIT Rourkela(_2017 - 2023_)**
+**R&D and Project Management Expertise @ IIT Bombay & NIT Rourkela(_2017 - 2023_)**
 - Executed 3 primary and 2 collaborative projects involving extensive hands-on expertise in Python and basic proficiency in Fortran and C++ programming languages leading to nine high-impact peer-reviewed publications and two in the pipeline.
 - Established a cohesive scientific team and guided four junior team members facilitating the transfer of technical knowledge resulting in the successful completion of a Master's thesis and two research projects.
 - High-level strategic planner with experience in optimizing challenging scientific problems, as demonstrated by leading 4+ high-throughput methodologies, leading to 3+ high-impact publications.
