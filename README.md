@@ -16,6 +16,16 @@
 - Developed QM based methodology towards the efficient implementation of Phaseless Auxiliary Field Quantum Monte Carlo (ph-AFQMC)
 - Applied Python and C++ for the data generation and utilized GPU computing towards the efficient implementation of the working equations
 
+**R\&D and Project Management Expertise @ IIT Bombay & NIT Rourkela(_2017 - 2023_)**
+- Executed 3 primary and 2 collaborative projects involving extensive hands-on expertise in Python and basic proficiency in Fortran and C++ programming languages leading to nine high-impact peer-reviewed publications and two in the pipeline.
+- Established a cohesive scientific team and guided four junior team members facilitating the transfer of technical knowledge resulting in the successful completion of a Master's thesis and two research projects.
+- High-level strategic planner with experience in optimizing challenging scientific problems, as demonstrated by leading 4+ high-throughput methodologies, leading to 3+ high-impact publications.
+- Gained expertise in several computational chemistry packages, culminating in the publication in an international peer-reviewed journal during Master's thesis.
+
+**Chemist and Research Teaching Assistant @ Indian Institute of Technology Bombay (_2019 - 2022_)**
+- Worked collaboratively with multi-disciplinary teams showcasing a robust capacity to investigate the current state of art scientific methodologies evidenced through the completion of three research projects.
+- ained leadership, teaching, and mentoring experience by instructing, supervising, and grading 60+ Engineering bachelor's students and 20+ master’s students resulting in the successful completion of a teaching assistant program..
+-  Gained adept oral and written communication abilities through the delivery of 10+ impactful poster presentations and talks at various national and international scientific conferences as evidenced by several award-winning presentations.
 
 ## Conference Talks & Posters
 - Biomolecular Dynamics: Experimental and Theoretical Perspectives (BDETP), NIT Rourkela, India 2017 
