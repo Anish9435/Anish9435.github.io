@@ -17,6 +17,20 @@
 - Applied Python and C++ for the data generation and utilized GPU computing towards the efficient implementation of the working equations
 
 
+## Conference Talks & Posters
+- Biomolecular Dynamics: Experimental and Theoretical Perspectives (BDETP), NIT Rourkela, India 2017 
+- Participant: Mumbai Workshop on Quantum Chemistry (MWQC), IIT Bombay, India, 2018
+- Poster: Structures and Dynamics of Molecules and Clusters (SDMC), Himachal Pradesh, India, 2019
+- Poster: Mumbai Workshop on Quantum Chemistry (MWQC), IIT Bombay, India, 2019
+- Talk: Diamond Jubilee Chemistry Symposium, IIT Bombay, India, 2019
+- Talk: In house Symposia, Department of Chemistry, IIT Bombay, India, 2019
+- Poster: Current Trends in Theoretical Chemistry (CTTC), BARC, Mumbai, India, 2020
+- Poster: In house Symposia, Department of Chemistry, IIT Bombay, India, 2021
+- Poster: Theoretical Chemistry Symposium (TCS), IISER Kolkata, India, 2021
+- Poster: National Conference of Molecular Modelling and Simulations (NCMMS), VIT Bhopal, India, 2021
+- Poster: 25th International Workshop on Quantum Systems in Chemistry, Physics and Biology (QSCP), Torun, Poland, 2022
+- Talk: Mini-Symposium on Theoretical Physical Chemistry and Chemical Physics (MS-TPCCP), IIT Bombay, India, 2023
+
 ## Publications
 1. Chakraborty A., Reddy N. G., Jana M., Giri S. [8] Cyclo-1, 4-naphthylene: A possible new member in hole transport family. Chem. Phys. Lett. 2019, 715, 153. DOI: 10.1016/j.cplett.2018.11.008
 2. Tribedi S., Chakraborty A., Maitra R., Formulation of a dressed coupled-cluster method with implicit triple excitations and benchmark application to hydrogen-bonded systems. J. Chem. Theory Comput. 2020, 16, 6317. DOI: 10.1021/acs.jctc.0c00736
