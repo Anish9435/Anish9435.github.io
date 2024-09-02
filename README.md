@@ -1,4 +1,4 @@
-# Research Scientist in the domain of Data Science
+# Research Scientist in the domain of Chemical Physics/ Data Science
 
 #### Technical Skills: Python, C++, Fortran, SQL, GPU, ML
 
@@ -30,6 +30,12 @@
 - Poster: National Conference of Molecular Modelling and Simulations (NCMMS), VIT Bhopal, India, 2021
 - Poster: 25th International Workshop on Quantum Systems in Chemistry, Physics and Biology (QSCP), Torun, Poland, 2022
 - Talk: Mini-Symposium on Theoretical Physical Chemistry and Chemical Physics (MS-TPCCP), IIT Bombay, India, 2023
+
+## Awards & recognitions
+- Best Poster Award: Theoretical Chemistry Symposium (TCS), IISER Kolkata, India, 2021
+- Best Poster Award: 25th International Workshop on Quantum Systems in Chemistry, Physics and Biology (QSCP), Torun, Poland, 2022
+- Humboldt Fellowship for Postdocs, Alexander von Humboldt Foundation, Heidelberg, Germany, 2024
+
 
 ## Publications
 1. Chakraborty A., Reddy N. G., Jana M., Giri S. [8] Cyclo-1, 4-naphthylene: A possible new member in hole transport family. Chem. Phys. Lett. 2019, 715, 153. DOI: 10.1016/j.cplett.2018.11.008
