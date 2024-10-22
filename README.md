@@ -56,5 +56,5 @@
 6. Patra C., Agarawal V., Halder D., Chakraborty A., Mondal D., Halder S., Maitra R., A synergistic approach towards optimization of coupled cluster amplitudes by exploiting dynamical hierarchy. ChemPhysChem 2023, 24, e202200633. DOI: 10.1002/cphc.202200633
 7. Halder D., Halder S., Mondal D., Patra C., Chakraborty A., Maitra R., Corrections beyond coupled cluster singles and doubles through selected generalized rank-two operators: digital quantum simulation of strongly correlated systems. J. Chem. Sci. 2023, 135, 41. DOI: 10.1007/s12039-023-02161-6
 8. Chakraborty A., Maitra R., Fixing the catastrophic breakdown of single reference coupled cluster theory for strongly correlated systems: Two paradigms toward the implicit inclusion of high-rank correlation with low-spin channels. J. Chem. Phys. 2023, 159, 024106. DOI: 10.1063/5.0146765
-9. Chakraborty A., Samanta P., Maitra R., Accurate determination of excitation energy: An equation-of-motion approach over a bi-exponential Coupled Cluster theory. J. Chem. Phys. 2024.
+9. Chakraborty A., Samanta P., Maitra R., Accurate determination of excitation energy: An equation-of-motion approach over a bi-exponential Coupled Cluster theory. J. Chem. Phys. 2024, 161, 114109. DOI:10.1063/5.0221202.
 
