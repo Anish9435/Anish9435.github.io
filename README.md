@@ -1,5 +1,3 @@
-# Anish Chakraborty, PhD
-
 #### Quantum Chemist ⚛ | Aspiring Data Scientist 📊
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anishchakraborty9435-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishchakraborty9435/)
 [![GitHub](https://img.shields.io/badge/GitHub-anish9435-lightgrey?style=flat&logo=github)](https://github.com/anish9435)  
