@@ -83,5 +83,5 @@ Now, I'm passionate about leveraging **data analytics** and **AI/ML** to drive i
 
 ## 📎 Resume
 
-📄 [Download Resume (PDF)](./resume.pdf)
+📄 [Download Resume (PDF)](./Anish_resume.pdf)
 
