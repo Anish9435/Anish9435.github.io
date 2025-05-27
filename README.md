@@ -16,10 +16,10 @@ Now, I'm passionate about leveraging **data analytics** and **AI/ML** to drive i
 
 ## ⚙️ Technical Skills
 
-- **Programming**: Python, SQL, C++, Fortran, Bash, Git  
-- **ML & Data**: Pandas, NumPy, Scikit-learn, RDKit, Power BI  
-- **Database**: MySQL, SQLite  
-- **Simulation & Tools**: Gaussian, ORCA, Q-CHEM, Gromacs, VMD  
+- **Programming**: Python, SQL, C++, Fortran, Bash, R 
+- **ML & Data**: Pandas, NumPy, Scikit-learn, RDKit, Matplotlib, Power BI
+- **Computational Methods**: Coupled Cluster, Density Functional Theory, Quantum Monte Carlo, Molecular Dynamics  
+- **Simulation & Tools**: Gaussian, ORCA, Q-CHEM, Gromacs, VMD, Autodock  
 - **Cloud/Systems**: Conda, HPC clusters, CUDA (GPU), Jupyter
 
 ---
