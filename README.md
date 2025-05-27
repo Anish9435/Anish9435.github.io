@@ -1,7 +1,7 @@
 # Anish Chakraborty, PhD
 
 #### Quantum Chemist ⚛ | Aspiring Data Scientist 📊
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishchakraborty-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anishchakraborty9435)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishchakraborty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishchakraborty9435/)  
 [![GitHub](https://img.shields.io/badge/GitHub-anish9435-lightgrey?style=flat&logo=github)](https://github.com/anish9435)  
 📍 Hyderabad, India | ✉️ anish.saheb41@email.com 
 
@@ -65,7 +65,7 @@ Now, I'm passionate about leveraging **data analytics** and **AI/ML** to drive i
 4. Chakraborty A., Maitra R., Fixing the catastrophic breakdown of single reference coupled cluster theory for strongly correlated systems: Two paradigms toward the implicit inclusion of high-rank correlation with low-spin channels. J. Chem. Phys. 2023, 159, 024106. DOI: 10.1063/5.0146765
 5. Chakraborty A., Samanta P., Maitra R., Accurate determination of excitation energy: An equation-of-motion approach over a bi-exponential Coupled Cluster theory. J. Chem. Phys. 2024, 161, 114109. DOI:10.1063/5.0221202.
 
-🔗 [Full List →]([https://github.com/anish9435/publications](https://scholar.google.com/citations?user=IB3gJdUAAAAJ&hl=en))
+🔗 [Full List →]([https://scholar.google.com/citations?user=IB3gJdUAAAAJ&hl=en])
 
 ---
 
